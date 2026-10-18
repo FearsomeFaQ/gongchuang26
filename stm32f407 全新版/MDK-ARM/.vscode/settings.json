@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "stm32f4xx_tim.h": "c",
+        "main.h": "c",
+        "bizhang.h": "c",
+        "delay.h": "c",
+        "string": "c",
+        "math.h": "c",
+        "control.h": "c",
+        "limits": "c",
+        "memory": "c",
+        "iosfwd": "c",
+        "utility": "c",
+        "motor.h": "c",
+        "imu.h": "c"
+    }
+}
